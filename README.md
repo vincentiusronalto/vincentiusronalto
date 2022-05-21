@@ -21,12 +21,6 @@ you can reach,,,still secret what I am doing but it will be a smartphone app.ron
 
 Usually I use golang on the job, but I can also code in javascript, and php
 
-
-🌱I also learning other technology
-such as
-React JS
-Mobile development with kotlin
-
 I have a dream creating my own startup, ,,,still secret what I am doing but it will be a smartphone app
 
 📫 
